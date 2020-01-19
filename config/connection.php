@@ -1,6 +1,6 @@
 <?php
 //localhost config file
-define("BASE","http://localhost/editor");
+define("BASE","http://localhost/i-mailr");
 define("START", 2);
 define("TITLE", "Instant Mailr");
 define("DESCRIPTION", "Instant Mailr");
