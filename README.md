@@ -3,6 +3,13 @@
 ## Intro
 I-Mailr is an instant drag and drop **Open Source** email template builder. User can make any kind of responsive web pages and email templates. User also can connect their email and **send** email template to their targeted customer. I-mailr also provide **API** access to connect with other APPS. [LIVE DEMO](http://jshossen.com/i-mailr/home)
 
+## Technology
+  * PHP
+  * Jquery 
+  * HTML
+  * Bootstrap
+  * mysql
+
 ## Installation
 
 #### Step 1:
@@ -13,11 +20,25 @@ Run It On Your Machine
 Edit `config/connection.php` and set your server and DB connection
 
 #### Step 3:
-Contact me for DB - bulkmailr.sql file for import
+Contact me for DB (bulkmailr.sql) file for import. Email: **jshossen01@gmail.com** I will check my email everyday :)
 
 #### Step 4:
 Contact me if you fail to setup :)
 
+
+## Features
+  * Drag and drop template builder
+  * Create/edit landing pages
+  * Create/edit email templates
+  * Form builder
+  * Email/customer collector (manually and dynamically)
+  * Create list for customers
+  * Manage your own custom fields
+  * Integrate with **Gmail**, **Mail Server**, **MailGun**
+  * Create your own **API**
+  * Statistics
+  * [APP usage tutorial](http://jshossen.com/i-mailr/tutorial)
+  * [API documentation](http://jshossen.com/i-mailr/api)
 
 ## Rules
 
