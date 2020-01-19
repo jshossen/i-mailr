@@ -1,0 +1,17 @@
+.border-5px{
+	border: 5px solid #337ab7;
+}
+.margin-top-15px{
+	margin-top: 15px;
+}
+.error{
+	color: red;
+}
+.disabled {
+   pointer-events: none;
+   cursor: default;
+}
+
+.box_shadow{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

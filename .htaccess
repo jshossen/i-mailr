@@ -1,0 +1,15 @@
+RewriteEngine on
+
+# If requested resource exists as a file or directory, skip next two rules
+#RewriteCond %{DOCUMENT_ROOT} -f [OR]
+#RewriteCond %{DOCUMENT_ROOT} -d
+#RewriteRule (.*) - [S=1]
+#
+
+RewriteCond %{REQUEST_URI} !((.+\..+)|(^/[a-z0-9_-]+/$)|(^/[a-z0-9_-]+$)) [NC]
+RewriteRule (.*)$ index.php [QSA,L]
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]

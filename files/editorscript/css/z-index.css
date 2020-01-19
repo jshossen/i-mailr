@@ -1,0 +1,75 @@
+.opaque-navbar{
+	z-index: 10050;
+}
+.up_settings_menu{
+  z-index: 10002;
+}
+.add_new_btn{
+  z-index: 10001;
+}
+.move_btn_div{
+	z-index: 10001;
+}
+.remove_me_please{
+	z-index: 10001;
+}
+#place_below{
+  z-index: 10001;
+}
+#elements{
+	z-index: 10050;
+}
+
+#elements_container{
+	z-index: 10050;
+}
+.sidenav_container{
+	z-index: 10050;
+}
+
+#pop_up_settings{
+	z-index: 10050;
+}
+#customScriptModal{
+	z-index: 10050;
+}
+#customCssModal{
+	z-index: 10050;
+}
+#custom_snippet{
+	z-index: 10050;
+}
+#show_image_library{
+	z-index: 10051 !important;
+}
+#show_image_library_src{
+	z-index: 10051 !important;
+}
+.cke_dialog{
+	z-index: 10051 !important;
+}
+#seo_settings{
+	z-index: 10050;
+}
+#opt_in_settings{
+	z-index: 10050;
+}
+#timerPopup{
+	z-index: 10050;
+}
+.xdsoft_datetimepicker{
+	z-index: 10051;
+}
+
+.loader {
+	z-index: 10051;
+}
+#editor_popup_to_change_text{
+	z-index: 10051 !important;
+}
+.cke_panel {
+	z-index: 10051 !important;
+}
+#editor_msg{
+	z-index: 10052;
+}
