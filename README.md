@@ -1,7 +1,7 @@
 # Instant Mailr
 
 ## Intro
-I-Mailr is an instant drag and drop **Open Source** email template builder. User can make any kind of responsive web pages and email templates. User also can connect their email and **send** email template to their targeted customer. I-mailr also provide **API** access to connect with other APPS. [LIVE DEMO](http://jshossen.com/i-mailr/home)
+I-Mailr is an instant drag and drop **Open Source** email template builder. User can make any kind of responsive web pages and email templates. User also can connect their email and **send** email template to their targeted customer. I-mailr also provide **API** access to connect with other APPS. [LIVE DEMO](http://apps.jshossen.com/i-mailr/home)
 
 ## Technology
   * PHP
@@ -37,8 +37,8 @@ Contact me if you fail to setup :)
   * Integrate with **Gmail**, **Mail Server**, **MailGun**
   * Create your own **API**
   * Statistics
-  * [APP usage tutorial](http://jshossen.com/i-mailr/tutorial)
-  * [API documentation](http://jshossen.com/i-mailr/api)
+  * [APP usage tutorial](http://apps.jshossen.com/i-mailr/tutorial)
+  * [API documentation](http://apps.jshossen.com/i-mailr/api)
 
 ## Rules
 
