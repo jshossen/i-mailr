@@ -19,6 +19,7 @@ function footing()
 
 function logged_in()
 {
+    // set_default_value(27);
     if(isset($_SESSION['auth_user']))
     {
         if($_SESSION['auth_user']){
