@@ -5,9 +5,9 @@ define("START", 2);
 define("TITLE", "Instant Mailr");
 define("DESCRIPTION", "Instant Mailr");
 define("KEYWORDS", "Instant Mailr");
-define("DB_NAME", "jshossen_i_mailr");
-define("DB_USER", "root");
-define("DB_PASSWORD", "Ss128891");
+define("DB_NAME", "apps_assistcafe_com_i_mailr");
+define("DB_USER", "pmauser");
+define("DB_PASSWORD", "Nokiaxl.198821");
 define("DB_HOST", "localhost");
 
 define("CONTACT_EMAIL", "jshossen01@gmail.com");
